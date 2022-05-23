@@ -1,0 +1,1001 @@
+Customer_ID,Customer Name,Year_Birth,Marital_Status,Gender,Education,Occupation
+12496,Jessica Myrick,1957,Single,F,Graduation,Skilled Manual
+24107,Matt Collister,1954,Single,F,Graduation,Clerical
+14177,Alan Schoenberger,1965,Together,M,Graduation,Professional
+24381,Elizabeth Moffitt,1984,Together,M,Graduation,Professional
+25597,David Philippe,1981,Married,M,PhD,Clerical
+13507,Patrick Jones,1967,Together,M,Master,Manual
+27974,Larry Tron,1971,Divorced,F,Graduation,Management
+19364,Alex Russell,1985,Married,F,PhD,Skilled Manual
+22155,Bill Donatelli,1974,Together,F,PhD,Clerical
+19280,Ann Steele,1950,Together,F,PhD,Manual
+22173,Andy Reiter,1983,Married,F,Graduation,Skilled Manual
+12697,Dave Hallsten,1976,Married,M,Basic,Professional
+11434,Tamara Dahlen,1959,Divorced,F,Graduation,Professional
+25323,Darren Budd,1952,Divorced,M,Master,Clerical
+23542,Marina Lichtenstein,1987,Married,F,Graduation,Skilled Manual
+20870,Pauline Chand,1946,Single,F,PhD,Manual
+23316,Valerie Dominguez,1980,Married,F,Graduation,Clerical
+12610,Dorris Love,1946,Together,M,Graduation,Clerical
+27183,Matt Collins,1949,Married,M,Master,Clerical
+25940,Robert Waldorf,1985,Single,F,2n Cycle,Clerical
+25598,Susan Vittorini,1982,Married,M,Graduation,Clerical
+21564,Corey Roper,1979,Married,M,Graduation,Professional
+19193,Julia West,1949,Married,M,PhD,Clerical
+26412,Muhammed Yedwab,1954,Married,M,PhD,Management
+27184,Craig Leslie,1951,Together,M,Graduation,Clerical
+12590,Tracy Collins,1969,Single,F,Graduation,Clerical
+17841,Victor Price,1976,Married,M,Graduation,Clerical
+18283,Maribeth Schnelling,1986,Single,F,Graduation,Professional
+18299,Julia Barnett,1989,Married,F,Graduation,Skilled Manual
+16466,Chloris Kastensmidt,1965,Married,M,PhD,Manual
+19273,Jasper Cacioppo,1989,Divorced,M,Master,Manual
+22400,George Ashbrook,1963,Together,M,Master,Manual
+20942,Benjamin Venier,1970,Together,M,Graduation,Manual
+18484,Julie Kriz,1952,Divorced,M,PhD,Skilled Manual
+12291,Sandra Flanagan,1946,Married,F,Master,Professional
+28380,Luke Schmidt,1951,Single,F,Master,Manual
+17891,Ruben Dartt,1970,Married,M,PhD,Manual
+27832,Mark Haberlin,1976,Married,F,2n Cycle,Clerical
+26863,Joni Blumstein,1973,Widow,F,Graduation,Manual
+16259,Cynthia Voltz,1943,Divorced,M,PhD,Manual
+27803,Yana Sorensen,1980,Married,F,Graduation,Clerical
+14347,Olvera Toch,1985,Married,M,Master,Management
+17703,Benjamin Patterson,1957,Together,F,Graduation,Manual
+17185,Kristina Nunn,1959,Single,F,PhD,Professional
+29380,Darren Powers,1975,Married,M,Master,Manual
+23986,Rob Haberlin,1976,Single,F,Graduation,Clerical
+24466,Giulietta Dortch,1996,Married,M,2n Cycle,Skilled Manual
+29097,Maria Bertelson,1968,Together,F,Graduation,Skilled Manual
+19487,Sean Wendt,1951,Single,M,Graduation,Clerical
+14939,Michelle Moray,1954,Married,F,PhD,Clerical
+13826,Bradley Drucker,1957,Widow,M,Graduation,Clerical
+20619,Alan Barnes,1964,Married,F,Master,Professional
+12558,Andy Gerbode,1977,Single,F,Graduation,Clerical
+24871,Cindy Schnelling,1977,Divorced,M,Graduation,Management
+17319,Greg Matthias,1978,Married,M,Graduation,Professional
+28906,Rick Reed,1955,Together,F,Master,Professional
+12808,Liz Price,1966,Divorced,M,Graduation,Clerical
+20567,Guy Thornton,1988,Single,M,Graduation,Professional
+25502,Michelle Huthwaite,1982,Single,F,Graduation,Skilled Manual
+15580,Brian Stugart,1968,Married,M,PhD,Professional
+24185,Mike Gockenbach,1982,Single,F,Master,Manual
+19291,Tamara Manning,1975,Together,M,Graduation,Manual
+16713,Toby Swindell,1952,Single,F,Graduation,Management
+16185,Clytie Kelty,1951,Widow,M,PhD,Professional
+14927,Jennifer Patt,1948,Together,M,Graduation,Clerical
+29337,Giulietta Weimer,1971,Married,M,Graduation,Clerical
+29355,Jennifer Jackson,1967,Together,F,Graduation,Clerical
+25303,Amy Hunt,1979,Single,F,2n Cycle,Manual
+14813,Amy Cox,1958,Together,M,Graduation,Manual
+16438,Skye Norling,1970,Together,F,Graduation,Manual
+14238,Xylona Price,1954,Married,M,Master,Professional
+16200,Sylvia Foulston,1973,Married,M,2n Cycle,Manual
+24857,Joe Elijah,1959,Married,F,Graduation,Professional
+26956,Jason Klamczynski,1975,Married,F,PhD,Manual
+14517,Sanjit Jacobs,1952,Married,M,Graduation,Skilled Manual
+12678,Christina Anderson,1977,Divorced,F,Graduation,Management
+16188,Katherine Ducich,1972,Married,M,Master,Manual
+27969,Carlos Soltero,1976,Single,F,Graduation,Professional
+15752,Paul Prost,1976,Together,F,2n Cycle,Skilled Manual
+27745,Randy Ferguson,1965,Together,F,Graduation,Management
+20828,Joel Eaton,1985,Single,F,Graduation,Clerical
+19461,John Lee,1969,Married,F,Graduation,Manual
+26941,Natalie Webber,1973,Married,M,2n Cycle,Clerical
+28412,Kristen Hastings,1963,Together,F,Master,Manual
+24485,Erica Bern,1987,Divorced,M,Graduation,Management
+16514,Arthur Gainer,1960,Married,F,Graduation,Manual
+17191,Chris Cortes,1970,Married,M,Master,Professional
+19608,Stuart Calhoun,1957,Single,M,Graduation,Professional
+24119,Tanja Norvell,1973,Married,M,Graduation,Clerical
+25458,Cynthia Arntzen,1967,Together,F,Graduation,Manual
+26886,Roy Phan,1957,Married,F,PhD,Clerical
+28436,Harold Ryan,1957,Single,F,Graduation,Clerical
+19562,Arthur Prichep,1973,Together,F,Master,Professional
+15608,Aaron Smayling,1972,Single,M,Master,Clerical
+16487,Thea Hudgings,1970,Married,M,PhD,Skilled Manual
+17197,Andrew Allen,1983,Married,M,Graduation,Professional
+12507,Khloe Miller,1960,Widow,M,Graduation,Clerical
+23940,Nathan Mautz,1972,Divorced,F,Graduation,Skilled Manual
+19441,Russell Applegate,1951,Married,M,2n Cycle,Clerical
+26852,Guy Phonely,1983,Married,M,PhD,Manual
+12274,Sally Matthias,1960,Single,M,2n Cycle,Manual
+20236,Jocasta Rupert,1959,Single,M,PhD,Professional
+24149,Victoria Brennan,1979,Together,F,Graduation,Manual
+26139,Cynthia Delaney,1945,Married,M,PhD,Skilled Manual
+18491,Filia McAdams,1959,Married,M,Graduation,Professional
+22707,Michael Dominguez,1979,Together,M,Basic,Clerical
+20430,Debra Catini,1964,Married,M,Graduation,Skilled Manual
+27494,Laurel Beltran,1969,Married,M,Graduation,Skilled Manual
+26829,Gene Hale,1978,Single,F,Graduation,Clerical
+28395,Stefanie Holloman,1960,Married,M,Master,Professional
+21006,Ken Brennan,1979,Together,F,Graduation,Manual
+14682,Sean O'Donnell,1991,Single,F,PhD,Professional
+17650,Cari Sayre,1963,Together,F,Master,Clerical
+29191,Adam Hart,1991,Single,M,Graduation,Management
+15030,Cindy Chapman,1980,Married,F,PhD,Clerical
+24140,Liz MacKendrick,1962,Single,F,Graduation,Manual
+22496,Katherine Hughes,1970,Married,M,Graduation,Skilled Manual
+24065,Eugene Barchas,1978,Married,M,2n Cycle,Manual
+19914,Clay Rozendal,1967,Together,F,2n Cycle,Management
+12871,Matt Abelman,1969,Together,M,Graduation,Clerical
+22988,Dave Brooks,1953,Together,F,Master,Management
+15922,Maria Zettner,1967,Single,M,Master,Professional
+12344,Art Foster,1985,Married,M,Master,Professional
+23627,Marc Crier,1976,Divorced,M,Graduation,Management
+27775,Joy Smith,1983,Single,F,Graduation,Clerical
+29301,Alejandro Grove,1965,Together,F,2n Cycle,Professional
+12716,Bill Overfelt,1984,Single,F,Graduation,Clerical
+12472,Carol Darley,1953,Married,F,Master,Clerical
+20970,Henia Zydlo,1961,Married,F,PhD,Manual
+26818,Michael Grace,1956,Together,F,PhD,Manual
+12993,Sonia Sunley,1952,Married,F,Graduation,Professional
+14192,Christine Sundaresam,1958,Alone,F,Master,Management
+19477,Gene McClure,1969,Married,F,Graduation,Professional
+26796,Dean Katz,1963,Married,M,Graduation,Management
+21094,Mick Crebagga,1964,Married,F,PhD,Clerical
+12234,Anthony Johnson,1967,Together,M,PhD,Manual
+28683,Robert Barroso,1976,Divorced,F,Basic,Manual
+17994,Ricardo Block,1959,Married,F,PhD,Manual
+24273,Christina Vanderzanden,1973,Alone,M,PhD,Clerical
+26547,Kelly Andreada,1965,Divorced,M,PhD,Clerical
+22500,Nick Zandusky,1992,Single,F,Master,Professional
+23993,Bobby Elias,1976,Together,M,Master,Manual
+14832,Robert Dilbeck,1962,Married,F,Graduation,Skilled Manual
+16614,Ed Braxton,1974,Single,F,PhD,Professional
+20877,Bradley Nguyen,1988,Together,F,Graduation,Clerical
+20729,Helen Wasserman,1976,Married,F,Graduation,Clerical
+22464,Max Engle,1975,Married,F,Graduation,Clerical
+19475,Grant Donatelli,1981,Together,M,Graduation,Professional
+19675,Christine Abelman,1973,Married,M,2n Cycle,Skilled Manual
+12728,Edward Becker,1966,Married,M,Master,Clerical
+26154,Ionia McGrath,1953,Married,F,Master,Skilled Manual
+29117,Evan Bailliet,1969,Married,M,Graduation,Management
+17845,Thais Sissman,1972,Together,M,2n Cycle,Manual
+25058,Rick Wilson,1988,Alone,F,Graduation,Management
+23426,Michael Moore,1952,Together,F,PhD,Management
+14798,Nicole Brennan,1949,Together,M,Graduation,Manual
+12664,Cathy Armstrong,1958,Single,M,Graduation,Professional
+23979,David Smith,1978,Single,M,Graduation,Manual
+25605,Vivek Grady,1977,Together,M,Graduation,Manual
+20797,Frank Hawley,1955,Single,M,Graduation,Manual
+11809,Willing Coline,1957,Together,M,Graduation,Skilled Manual
+19664,Disnetsl Carbot,1973,Married,M,Graduation,Management
+12121,Santa Convos,1956,Divorced,F,Graduation,Professional
+16179,Tony Molinari,1972,Single,F,PhD,Professional
+15628,Karen Ferguson,1975,Single,Female,Master,Skilled Manual
+20977,Duane Huffman,1970,Single,F,Graduation,Clerical
+18140,Lisa Ryan,1989,Single,M,Graduation,Professional
+12496,Jessica Myrick,1957,Single,F,Graduation,Skilled Manual
+24107,Matt Collister,1954,Single,F,Graduation,Clerical
+14177,Alan Schoenberger,1965,Together,M,Graduation,Professional
+18299,Julia Barnett,1989,Married,F,Graduation,Skilled Manual
+16466,Chloris Kastensmidt,1965,Married,M,PhD,Manual
+19273,Jasper Cacioppo,1989,Divorced,M,Master,Manual
+13586,Mitch Gastineau,1954,Widow,F,Graduation,Professional
+14389,Jonahe,1952,Single,F,Graduation,Management
+18050,Edibehd,1971,Together,M,PhD,Skilled Manual
+19856,Hiasy Hkasg,1971,Together,F,Graduation,Management
+11663,Akieh Aged,1970,Married,F,PhD,Professional
+27740,Huwogf Dhueo,1971,Single,F,Graduation,Skilled Manual
+23455,Dua Liaped,1975,Divorced,F,PhD,Skilled Manual
+15292,Dia Shue,1952,Single,M,2n Cycle,Skilled Manual
+21587,Kelly Eolye,1962,Together,M,PhD,Skilled Manual
+23513,Cinder Swete,1983,Divorced,F,Graduation,Professional
+15265,Mary O'Rourke,1984,Married,M,Master,Management
+28918,Katrina Bavinger,1961,Married,F,Basic,Management
+15799,Jeremy Lonsdale,1983,Married,M,Graduation,Professional
+11047,Peter McVee,1970,Single,F,PhD,Skilled Manual
+18151,Dana Kaydos,1966,Married,M,Graduation,Professional
+20606,Dan Campbell,1976,Married,M,Graduation,Professional
+19482,Jill Matthias,1964,Married,F,PhD,Clerical
+16489,Cathy Hwang,1978,Together,F,Basic,Skilled Manual
+26944,Stephanie Phelps,1989,Together,F,PhD,Manual
+15682,Darrin Van Huff,1990,Divorced,F,2n Cycle,Management
+26032,James Lanier,1988,Married,M,Graduation,Professional
+17843,Keith Dawkins,1973,Married,M,Graduation,Manual
+25559,Victoria Pisteka,1977,Married,F,Graduation,Clerical
+16209,Steven Ward,1980,Married,Male,Master,Skilled Manual
+11147,Evan Minnotte,1954,Married,F,Graduation,Management
+15214,Denise Monton,1954,Married,M,Graduation,Management
+11453,Natalie Fritzler,1973,Single,F,PhD,Professional
+24584,Alan Hwang,1952,Divorced,F,Graduation,Professional
+12585,Theresa Swint,1968,Single,F,Graduation,Manual
+18626,Ryan Akin,1978,Divorced,Male,Graduation,Clerical
+29298,Jim Radford,1977,Together,Male,PhD,Skilled Manual
+24842,Delfina Latchford,1965,Single,Male,PhD,Professional
+15657,Carl Weiss,1984,Single,F,Master,Clerical
+11415,Quincy Jones,1988,Together,F,Graduation,Professional
+28729,Guy Armstrong,1963,Divorced,F,Master,Manual
+22633,Christina DeMoss,1966,Married,F,Graduation,Clerical
+25649,Joy Bell,1954,Divorced,F,Graduation,Clerical
+14669,Trudy Schmidt,1956,Together,M,Graduation,Management
+19299,Raymond Book,1954,Together,Female,Graduation,Skilled Manual
+20946,Dennis Bolton,1968,Married,M,PhD,Clerical
+11451,John Huston,1974,Together,M,Master,Professional
+25553,Richard Bierner,1985,Married,F,Graduation,Clerical
+27951,Rose O'Brian,1977,Married,M,Graduation,Professional
+25026,Dorothy Badders,1978,Single,F,2n Cycle,Clerical
+13673,Karen Bern,1948,Married,Female,Master,Manual
+16043,Maxwell Schwartz,1954,Widow,M,Master,Manual
+22399,Thomas Brumley,1980,Together,F,Graduation,Manual
+27696,Nora Price,1988,Together,Male,2n Cycle,Professional
+25313,Heather Kirkland,1969,Married,Male,Graduation,Manual
+13813,Craig Carroll,1970,Together,Male,PhD,Clerical
+18711,Rob Beeghly,1980,Married,F,PhD,Professional
+19650,Dennis Kane,1962,Divorced,M,Graduation,Clerical
+14135,Laura Armstrong,1978,Together,F,Graduation,Manual
+12833,Lindsay Castell,1976,Together,M,Graduation,Manual
+26849,Resi Polking,1952,Divorced,M,Graduation,Manual
+20962,Denny Blanton,1972,Married,F,PhD,Clerical
+28915,Carol Adams,1986,Together,Female,PhD,Management
+22830,Carlos Daly,1966,Single,F,Graduation,Management
+14777,Carol Triggs,1962,Divorced,Female,2n Cycle,Clerical
+12591,Beth Fritzler,1971,Together,F,Graduation,Clerical
+24174,Naresj Patel,1951,Single,M,Graduation,Clerical
+24611,Mike Kennedy,1965,Married,M,PhD,Professional
+11340,Chuck Sachs,1975,Married,F,2n Cycle,Clerical
+25693,Daniel Byrd,1982,Together,M,Master,Clerical
+25555,Michael Stewart,1958,Single,F,PhD,Manual
+22006,Daniel Raglin,1973,Single,F,Graduation,Skilled Manual
+20060,John Dryer,1983,Single,M,2n Cycle,Manual
+17702,Julie Prescott,1968,Widow,M,Graduation,Manual
+12503,Sean Christensen,1958,Together,M,Graduation,Clerical
+23908,Thomas Boland,1971,Single,M,Graduation,Clerical
+22527,Kimberly Carter,1990,Married,M,Graduation,Manual
+19057,Eric Barreto,1958,Married,M,Graduation,Management
+18494,Anna Chung,1964,Married,M,PhD,Management
+11249,Brendan Murry,1972,Married,F,Graduation,Professional
+21568,Marc Harrigan,1953,Married,M,Graduation,Management
+13981,Beth Thompson,1988,Married,M,PhD,Skilled Manual
+23432,Noah Childs,1969,Together,M,Master,Professional
+22931,Barry Weirich,1975,Single,M,Master,Management
+18172,Victoria Wilson,1985,Single,M,Graduation,Professional
+12666,Emily Phan,1974,Divorced,Female,Graduation,Professional
+20598,Christopher Conant,1958,Together,M,2n Cycle,Professional
+21375,Tony Sayre,1967,Together,M,Graduation,Clerical
+20839,Tonja Turnell,1974,Single,M,PhD,Clerical
+21738,Jack O'Briant,1961,Together,M,PhD,Clerical
+14164,Dean Braden,1964,Single,M,Graduation,Skilled Manual
+14193,Kelly Williams,1964,Single,M,Graduation,Management
+12705,Lena Cacioppo,1957,Single,M,PhD,Management
+22672,Pamela Stobb,1979,Divorced,Female,Graduation,Clerical
+26219,William Brown,1968,Divorced,Female,PhD,Skilled Manual
+28468,Dionis Lloyd,1970,Married,F,Master,Manual
+23419,Tamara Chand,1978,Married,Female,PhD,Professional
+17964,Nat Carroll,1952,Together,M,Master,Clerical
+20919,Troy Staebel,1966,Married,F,Master,Clerical
+20927,Michael Oakman,1963,Married,M,Graduation,Manual
+13133,Christopher Martinez,1970,Married,F,PhD,Professional
+19626,Joe Kamberova,1970,Married,M,Graduation,Skilled Manual
+21039,Dario Medina,1970,Together,F,Graduation,Skilled Manual
+12231,Liz Pelletier,1953,Single,F,Graduation,Manual
+25665,Lynn Smith,1983,Single,F,Master,Manual
+24061,Rick Huthwaite,1975,Together,F,PhD,Manual
+26879,Christopher Schild,1960,Married,F,Graduation,Manual
+12284,Heather Jas,1963,Divorced,F,Graduation,Clerical
+26654,Jennifer Ferguson,1963,Together,M,PhD,Management
+14545,Don Weiss,1956,Single,F,Graduation,Manual
+24201,Dave Kipp,1981,Together,F,Master,Manual
+20625,Eileen Kiefer,1986,Single,M,PhD,Management
+16390,Jonathan Doherty,1968,Divorced,M,Master,Clerical
+14804,Philip Brown,1981,Married,F,Basic,Manual
+12629,Ryan Crowe,1976,Together,M,Graduation,Manual
+14696,Nora Paige,1946,Together,F,Graduation,Manual
+22005,Grant Carroll,1974,Together,M,PhD,Skilled Manual
+14544,Fred Harton,1975,Married,F,Master,Manual
+14312,Ashley Jarboe,1974,Married,M,Graduation,Skilled Manual
+29120,Tom Stivers,1952,Together,M,Graduation,Management
+24187,Tim Brockman,1956,Together,F,Master,Clerical
+15758,Dorothy Wardle,1966,Widow,F,Graduation,Management
+29094,Karen Seio,1949,Divorced,F,Master,Skilled Manual
+28319,Anthony Garverick,1984,Together,M,2n Cycle,Skilled Manual
+16406,Scot Coram,1969,Together,M,Graduation,Clerical
+20923,Odella Nelson,1980,Married,F,Graduation,Skilled Manual
+11378,Eudokia Martin,1971,Together,F,Graduation,Manual
+20851,Scot Wooten,1965,Together,M,Graduation,Manual
+21557,Harold Dahlen,1952,Together,F,Master,Management
+26663,Dave Poirier,1988,Divorced,Male,2n Cycle,Professional
+23993,Bobby Elias,1976,Together,M,Master,Manual
+14832,Robert Dilbeck,1962,Married,F,Graduation,Skilled Manual
+16614,Ed Braxton,1974,Single,F,PhD,Professional
+20877,Bradley Nguyen,1988,Together,F,Graduation,Clerical
+20729,Helen Wasserman,1976,Married,F,Graduation,Clerical
+22464,Max Engle,1975,Married,F,Graduation,Clerical
+19475,Grant Donatelli,1981,Together,M,Graduation,Professional
+19675,Christine Abelman,1973,Married,M,2n Cycle,Skilled Manual
+12728,Edward Becker,1966,Married,M,Master,Clerical
+26154,Ionia McGrath,1953,Married,F,Master,Skilled Manual
+29117,Evan Bailliet,1969,Married,M,Graduation,Management
+17845,Thais Sissman,1972,Together,M,2n Cycle,Manual
+25058,Rick Wilson,1988,Alone,F,Graduation,Management
+23426,Michael Moore,1952,Together,F,PhD,Management
+14798,Nicole Brennan,1949,Together,M,Graduation,Manual
+12664,Cathy Armstrong,1958,Single,M,Graduation,Professional
+23979,David Smith,1978,Single,M,Graduation,Manual
+25605,Vivek Grady,1977,Together,M,Graduation,Manual
+20797,Frank Hawley,1955,Single,M,Graduation,Manual
+21980,Trudy Bell,1958,Single,F,Master,Professional
+25460,Lena Creighton,1945,Married,M,PhD,Manual
+29181,Vicky Freymann,1984,Married,M,Graduation,Professional
+24279,Charles Crestani,1975,Divorced,M,PhD,Skilled Manual
+22402,Janet Lee,1973,Married,M,PhD,Manual
+15465,Mick Brown,1966,Together,M,Graduation,Manual
+26757,Phillip Flathmann,1953,Divorced,M,Graduation,Professional
+14233,Bill Eplett,1959,Divorced,M,Graduation,Management
+14058,Erica Smith,1988,Single,M,Graduation,Professional
+12273,Sharelle Roach,1957,Together,M,Graduation,Clerical
+17203,Frank Merwin,1965,Together,M,Graduation,Professional
+18144,David Bremer,1982,Married,M,Graduation,Management
+23963,Nicole Hansen,1970,Married,M,Graduation,Manual
+17907,Justin Knight,1959,Together,M,PhD,Manual
+19442,Roland Fjeld,1967,Single,M,Graduation,Skilled Manual
+17504,Sally Hughsby,1975,Married,M,PhD,Skilled Manual
+12253,Neola Schneider,1948,Married,M,PhD,Manual
+27304,Ann Blume,1970,Married,F,PhD,Professional
+14191,Anthony O'Donnell,1959,Together,M,Graduation,Professional
+12212,Adam Shillingsburg,1951,Married,M,2n Cycle,Manual
+25529,Peter Buhler,1976,Married,M,PhD,Manual
+22170,Brian Moss,1988,Married,M,2n Cycle,Clerical
+28319,Anthony Garverick,1984,Together,M,2n Cycle,Skilled Manual
+16406,Scot Coram,1969,Together,M,Graduation,Clerical
+20923,Odella Nelson,1980,Married,F,Graduation,Skilled Manual
+11378,Eudokia Martin,1971,Together,F,Graduation,Manual
+20851,Scot Wooten,1965,Together,M,Graduation,Manual
+21557,Harold Dahlen,1952,Together,F,Master,Management
+26663,Dave Poirier,1988,Divorced,Male,2n Cycle,Professional
+23993,Bobby Elias,1976,Together,M,Master,Manual
+14832,Robert Dilbeck,1962,Married,F,Graduation,Skilled Manual
+16614,Ed Braxton,1974,Single,F,PhD,Professional
+20877,Bradley Nguyen,1988,Together,F,Graduation,Clerical
+20729,Helen Wasserman,1976,Married,F,Graduation,Clerical
+22464,Max Engle,1975,Married,F,Graduation,Clerical
+19475,Grant Donatelli,1981,Together,M,Graduation,Professional
+19675,Christine Abelman,1973,Married,M,2n Cycle,Skilled Manual
+26354,Becky Pak,1974,Married,M,Graduation,Clerical
+14785,Bill Tyler,1976,Single,F,PhD,Clerical
+17238,Melanie Page,1978,Single,F,Graduation,Professional
+23608,Noel Staavos,1955,Married,F,Graduation,Professional
+22538,Greg Guthrie,1969,Married,F,PhD,Manual
+12332,Valerie Takahito,1943,Married,M,Master,Management
+17230,John Lucas,1948,Together,M,PhD,Professional
+13082,Steve Nguyen,1957,Married,M,Graduation,Management
+22518,Mary Zewe,1969,Widow,F,PhD,Clerical
+13687,Neil French,1978,Married,M,Graduation,Skilled Manual
+23571,Sara Luxemburg,1978,Married,M,PhD,Management
+19305,Carlos Meador,1967,Married,F,Graduation,Manual
+22636,Claire Good,1969,Single,F,Graduation,Clerical
+17310,Benjamin Farhat,1960,Married,F,Graduation,Skilled Manual
+12133,Bart Folk,1976,Divorced,M,Graduation,Professional
+25918,Adam Bellavance,1962,Together,F,Graduation,Clerical
+25752,Brendan Sweed,1975,Single,M,PhD,Manual
+17324,Paul Lucas,1984,Married,F,2n Cycle,Professional
+22918,Aleksandra Gannaway,1975,Married,F,Graduation,Management
+12510,Stefania Perrino,1970,Single,Female,Master,Skilled Manual
+25512,Arthur Wiediger,1966,Single,M,Graduation,Manual
+16179,Tony Molinari,1972,Single,F,PhD,Professional
+15628,Karen Ferguson,1975,Single,Female,Master,Skilled Manual
+20977,Duane Huffman,1970,Single,F,Graduation,Clerical
+18140,Lisa Ryan,1989,Single,M,Graduation,Professional
+12496,Jessica Myrick,1957,Single,F,Graduation,Skilled Manual
+24107,Matt Collister,1954,Single,F,Graduation,Clerical
+14177,Alan Schoenberger,1965,Together,M,Graduation,Professional
+18299,Julia Barnett,1989,Married,F,Graduation,Skilled Manual
+16466,Chloris Kastensmidt,1965,Married,M,PhD,Manual
+19273,Jasper Cacioppo,1989,Divorced,M,Master,Manual
+13586,Mitch Gastineau,1954,Widow,F,Graduation,Professional
+17978,Emily Grady,1973,Married,F,2n Cycle,Clerical
+13961,Pete Takahito,1943,Married,M,PhD,Management
+13690,Dianna Vittorini,1960,Together,F,Graduation,Manual
+12568,Mitch Webber,1949,Together,F,Graduation,Clerical
+13122,Denise Leinenbach,1968,Divorced,M,PhD,Professional
+21184,Tracy Hopkins,1979,Together,F,Graduation,Professional
+26150,Bruce Degenhardt,1979,Together,F,Master,Professional
+24151,Meg O'Connel,1993,Single,M,Graduation,Clerical
+23962,Dan Reichenbach,1946,Married,F,PhD,Manual
+17793,Berenike Kampe,1968,Married,F,Master,Clerical
+14926,Sheri Gordon,1991,Together,F,PhD,Clerical
+16163,Ralph Arnett,1971,Married,F,Graduation,Professional
+21365,Claudia Miner,1984,Together,M,Graduation,Clerical
+27771,Robert Marley,1987,Single,F,Graduation,Clerical
+26167,Steve Carroll,1980,Together,M,2n Cycle,Management
+25792,Elpida Rittenbach,1956,Divorced,F,2n Cycle,Management
+11555,Vivian Mathis,1965,Together,M,Graduation,Clerical
+22381,Tamara Willingham,1974,Single,M,Graduation,Manual
+17882,Grace Kelly,1960,Together,F,Graduation,Clerical
+22174,Gary Zandusky,1955,Single,Female,PhD,Skilled Manual
+22439,Meg Tillman,1965,Married,M,Graduation,Clerical
+18012,Alejandro Savely,1972,Single,M,PhD,Skilled Manual
+12496,Jessica Myrick,1957,Single,F,Graduation,Skilled Manual
+24107,Matt Collister,1954,Single,F,Graduation,Clerical
+14177,Alan Schoenberger,1965,Together,M,Graduation,Professional
+18299,Julia Barnett,1989,Married,F,Graduation,Skilled Manual
+16466,Chloris Kastensmidt,1965,Married,M,PhD,Manual
+19273,Jasper Cacioppo,1989,Divorced,M,Master,Manual
+13586,Mitch Gastineau,1954,Widow,F,Graduation,Professional
+17978,Emily Grady,1973,Married,F,2n Cycle,Clerical
+13961,Pete Takahito,1943,Married,M,PhD,Management
+11897,Harold Pawlan,1975,Together,F,2n Cycle,Professional
+11139,Sam Zeldin,1994,Together,F,Graduation,Clerical
+11576,Theone Pippenger,1981,Single,F,Graduation,Skilled Manual
+19255,Rick Hansen,1971,Married,F,Master,Manual
+18153,Maribeth Dona,1973,Married,F,PhD,Management
+13586,Mitch Gastineau,1954,Widow,F,Graduation,Professional
+17978,Emily Grady,1973,Married,F,2n Cycle,Clerical
+12581,Nathan Gelder,1981,Single,F,Master,Manual
+18018,Justin Ellison,1971,Single,M,Graduation,Clerical
+28957,Nancy Lomonaco,1968,Together,M,Master,Professional
+13690,Dianna Vittorini,1960,Together,F,Graduation,Manual
+12568,Mitch Webber,1949,Together,F,Graduation,Clerical
+13122,Denise Leinenbach,1968,Divorced,M,PhD,Professional
+21184,Tracy Hopkins,1979,Together,F,Graduation,Professional
+26150,Bruce Degenhardt,1979,Together,F,Master,Professional
+24151,Meg O'Connel,1993,Single,M,Graduation,Clerical
+23962,Dan Reichenbach,1946,Married,F,PhD,Manual
+17793,Berenike Kampe,1968,Married,F,Master,Clerical
+14926,Sheri Gordon,1991,Together,F,PhD,Clerical
+12496,Jessica Myrick,1957,Single,F,Graduation,Skilled Manual
+24107,Matt Collister,1954,Single,F,Graduation,Clerical
+14177,Alan Schoenberger,1965,Together,M,Graduation,Professional
+18299,Julia Barnett,1989,Married,F,Graduation,Skilled Manual
+16466,Chloris Kastensmidt,1965,Married,M,PhD,Manual
+19273,Jasper Cacioppo,1989,Divorced,M,Master,Manual
+13586,Mitch Gastineau,1954,Widow,F,Graduation,Professional
+17978,Emily Grady,1973,Married,F,2n Cycle,Clerical
+13961,Pete Takahito,1943,Married,M,PhD,Management
+20053,Tom Prescott,1955,Married,M,PhD,Clerical
+25266,Nat Gilpin,1987,Single,M,Graduation,Clerical
+17960,Eva Jacobs,1962,Together,M,Graduation,Clerical
+13961,Pete Takahito,1943,Married,M,PhD,Management
+17882,Grace Kelly,1960,Together,F,Graduation,Clerical
+22174,Gary Zandusky,1955,Single,Female,PhD,Skilled Manual
+22439,Meg Tillman,1965,Married,M,Graduation,Clerical
+18012,Alejandro Savely,1972,Single,M,PhD,Skilled Manual
+27582,Cindy Stewart,1971,Divorced,F,PhD,Professional
+12744,Tom Boeckenhauer,1974,Together,F,PhD,Clerical
+22821,George Zrebassa,1963,Married,F,Graduation,Professional
+20171,Pauline Webber,1982,Single,F,2n Cycle,Manual
+11116,Ben Wallace,1976,Married,M,Graduation,Skilled Manual
+20053,Tom Prescott,1955,Married,M,PhD,Clerical
+25266,Nat Gilpin,1987,Single,M,Graduation,Clerical
+17960,Eva Jacobs,1962,Together,M,Graduation,Clerical
+13961,Pete Takahito,1943,Married,M,PhD,Management
+11897,Harold Pawlan,1975,Together,F,2n Cycle,Professional
+11139,Sam Zeldin,1994,Together,F,Graduation,Clerical
+12496,Jessica Myrick,1957,Single,F,Graduation,Skilled Manual
+24107,Matt Collister,1954,Single,F,Graduation,Clerical
+14177,Alan Schoenberger,1965,Together,M,Graduation,Professional
+18299,Julia Barnett,1989,Married,F,Graduation,Skilled Manual
+16466,Chloris Kastensmidt,1965,Married,M,PhD,Manual
+19273,Jasper Cacioppo,1989,Divorced,M,Master,Manual
+13586,Mitch Gastineau,1954,Widow,F,Graduation,Professional
+17978,Emily Grady,1973,Married,F,2n Cycle,Clerical
+13961,Pete Takahito,1943,Married,M,PhD,Management
+19255,Rick Hansen,1971,Married,F,Master,Manual
+18153,Maribeth Dona,1973,Married,F,PhD,Management
+14547,Henry MacAllister,1983,Married,F,Graduation,Manual
+12568,Mitch Webber,1949,Together,F,Graduation,Clerical
+13122,Denise Leinenbach,1968,Divorced,M,PhD,Professional
+21184,Tracy Hopkins,1979,Together,F,Graduation,Professional
+26150,Bruce Degenhardt,1979,Together,F,Master,Professional
+24151,Meg O'Connel,1993,Single,M,Graduation,Clerical
+23962,Dan Reichenbach,1946,Married,F,PhD,Manual
+17793,Berenike Kampe,1968,Married,F,Master,Clerical
+14926,Sheri Gordon,1991,Together,F,PhD,Clerical
+16163,Ralph Arnett,1971,Married,F,Graduation,Professional
+21365,Claudia Miner,1984,Together,M,Graduation,Clerical
+27771,Robert Marley,1987,Single,F,Graduation,Clerical
+26167,Steve Carroll,1980,Together,M,2n Cycle,Management
+25792,Elpida Rittenbach,1956,Divorced,F,2n Cycle,Management
+11555,Vivian Mathis,1965,Together,M,Graduation,Clerical
+22381,Tamara Willingham,1974,Single,M,Graduation,Manual
+17882,Grace Kelly,1960,Together,F,Graduation,Clerical
+22174,Gary Zandusky,1955,Single,Female,PhD,Skilled Manual
+22439,Meg Tillman,1965,Married,M,Graduation,Clerical
+18012,Alejandro Savely,1972,Single,M,PhD,Skilled Manual
+27582,Cindy Stewart,1971,Divorced,F,PhD,Professional
+12744,Tom Boeckenhauer,1974,Together,F,PhD,Clerical
+22821,George Zrebassa,1963,Married,F,Graduation,Professional
+20171,Pauline Webber,1982,Single,F,2n Cycle,Manual
+11116,Ben Wallace,1976,Married,M,Graduation,Skilled Manual
+12496,Jessica Myrick,1957,Single,F,Graduation,Skilled Manual
+24107,Matt Collister,1954,Single,F,Graduation,Clerical
+14177,Alan Schoenberger,1965,Together,M,Graduation,Professional
+24381,Elizabeth Moffitt,1984,Together,M,Graduation,Professional
+25597,David Philippe,1981,Married,M,PhD,Clerical
+13507,Patrick Jones,1967,Together,M,Master,Manual
+27974,Larry Tron,1971,Divorced,F,Graduation,Management
+19364,Alex Russell,1985,Married,F,PhD,Skilled Manual
+22155,Bill Donatelli,1974,Together,F,PhD,Clerical
+19280,Ann Steele,1950,Together,F,PhD,Manual
+22173,Andy Reiter,1983,Married,F,Graduation,Skilled Manual
+12697,Dave Hallsten,1976,Married,M,Basic,Professional
+11434,Tamara Dahlen,1959,Divorced,F,Graduation,Professional
+25323,Darren Budd,1952,Divorced,M,Master,Clerical
+23542,Marina Lichtenstein,1987,Married,F,Graduation,Skilled Manual
+20870,Pauline Chand,1946,Single,F,PhD,Manual
+23316,Valerie Dominguez,1980,Married,F,Graduation,Clerical
+22730,Becker Edw ,1976,Single,M,2n Cycle,Management
+29134, Mac Allister,1956,Widow,M,PhD,Skilled Manual
+14332, Biten Arnett,1954,Divorced,F,Graduation,Skilled Manual
+19117,Susi Sistek,1972,Married,F,2n Cycle,Professional
+23542,Marina Lichtenstein,1987,Married,F,Graduation,Skilled Manual
+20870,Pauline Chand,1946,Single,F,PhD,Manual
+25598,Susan Vittorini,1982,Married,M,Graduation,Clerical
+21564,Corey Roper,1979,Married,M,Graduation,Professional
+12496,Jessica Myrick,1957,Single,F,Graduation,Skilled Manual
+24107,Matt Collister,1954,Single,F,Graduation,Clerical
+14177,Alan Schoenberger,1965,Together,M,Graduation,Professional
+18299,Julia Barnett,1989,Married,F,Graduation,Skilled Manual
+16466,Chloris Kastensmidt,1965,Married,M,PhD,Manual
+19273,Jasper Cacioppo,1989,Divorced,M,Master,Manual
+13586,Mitch Gastineau,1954,Widow,F,Graduation,Professional
+17978,Emily Grady,1973,Married,F,2n Cycle,Clerical
+13961,Pete Takahito,1943,Married,M,PhD,Management
+11897,Harold Pawlan,1975,Together,F,2n Cycle,Professional
+11139,Sam Zeldin,1994,Together,F,Graduation,Clerical
+11576,Theone Pippenger,1981,Single,F,Graduation,Skilled Manual
+19255,Rick Hansen,1971,Married,F,Master,Manual
+18153,Maribeth Dona,1973,Married,F,PhD,Management
+14547,Henry MacAllister,1983,Married,F,Graduation,Manual
+12568,Mitch Webber,1949,Together,F,Graduation,Clerical
+13122,Denise Leinenbach,1968,Divorced,M,PhD,Professional
+21184,Tracy Hopkins,1979,Together,F,Graduation,Professional
+26150,Bruce Degenhardt,1979,Together,F,Master,Professional
+24151,Meg O'Connel,1993,Single,M,Graduation,Clerical
+24151,Meg O'Connel,1993,Single,M,Graduation,Clerical
+23962,Dan Reichenbach,1946,Married,F,PhD,Manual
+17793,Berenike Kampe,1968,Married,F,Master,Clerical
+13122,Denise Leinenbach,1968,Divorced,M,PhD,Professional
+21184,Tracy Hopkins,1979,Together,F,Graduation,Professional
+23316,Valerie Dominguez,1980,Married,F,Graduation,Clerical
+12610,Dorris Love,1946,Together,M,Graduation,Clerical
+27183,Matt Collins,1949,Married,M,Master,Clerical
+25940,Robert Waldorf,1985,Single,F,2n Cycle,Clerical
+25598,Susan Vittorini,1982,Married,M,Graduation,Clerical
+21564,Corey Roper,1979,Married,M,Graduation,Professional
+17841,Victor Price,1976,Married,M,Graduation,Clerical
+18283,Maribeth Schnelling,1986,Single,F,Graduation,Professional
+18299,Julia Barnett,1989,Married,F,Graduation,Skilled Manual
+16466,Chloris Kastensmidt,1965,Married,M,PhD,Manual
+21184,Tracy Hopkins,1979,Together,F,Graduation,Professional
+26150,Bruce Degenhardt,1979,Together,F,Master,Professional
+24151,Meg O'Connel,1993,Single,M,Graduation,Clerical
+23962,Dan Reichenbach,1946,Married,F,PhD,Manual
+17793,Berenike Kampe,1968,Married,F,Master,Clerical
+13122,Denise Leinenbach,1968,Divorced,M,PhD,Professional
+21184,Tracy Hopkins,1979,Together,F,Graduation,Professional
+23316,Valerie Dominguez,1980,Married,F,Graduation,Clerical
+12610,Dorris Love,1946,Together,M,Graduation,Clerical
+27183,Matt Collins,1949,Married,M,Master,Clerical
+25940,Robert Waldorf,1985,Single,F,2n Cycle,Clerical
+11292,Sean Dua,1989,Single,M,Graduation,Professional
+13466,Sieal 7enrue,1954,Divorced,F,Graduation,Professional
+23731,Abam Dam,1995,Single,M,Graduation,Professional
+28672,Adam Evil,1978,Together,F,Graduation,Professional
+11809,Willing Coline,1957,Together,M,Graduation,Skilled Manual
+19664,Disnetsl Carbot,1973,Married,M,Graduation,Management
+12121,Santa Convos,1956,Divorced,F,Graduation,Professional
+16179,Tony Molinari,1972,Single,F,PhD,Professional
+15628,Karen Ferguson,1975,Single,Female,Master,Skilled Manual
+20977,Duane Huffman,1970,Single,F,Graduation,Clerical
+18140,Lisa Ryan,1989,Single,M,Graduation,Professional
+12496,Jessica Myrick,1957,Single,F,Graduation,Skilled Manual
+24107,Matt Collister,1954,Single,F,Graduation,Clerical
+14177,Alan Schoenberger,1965,Together,M,Graduation,Professional
+17450,Juliaed Barnedett,1952,Married,F,Graduation,Professional
+17337,Mongo DBB,1954,Together,F,Graduation,Skilled Manual
+18594,Thomas Edred,1960,Widow,M,2n Cycle,Skilled Manual
+15982,Adam Sburgwd,1965,Divorced,M,Graduation,Professional
+28625,Shilling Zeldin,1979,Divorced,F,Master,Clerical
+11269,Lunafe ,1978,Divorced,M,Graduation,Management
+25148,Theo Penger,1950,Married,M,Graduation,Professional
+13920,Rick Edisono,1974,Married,F,PhD,Skilled Manual
+23704,Kined Edios,1978,Married,F,PhD,Professional
+28972,Alete Disne,1969,Married,M,Graduation,Management
+22730,Becker Edw ,1976,Single,M,2n Cycle,Management
+29134, Mac Allister,1956,Widow,M,PhD,Skilled Manual
+14332, Biten Arnett,1954,Divorced,F,Graduation,Skilled Manual
+19117,Susi Sistek,1972,Married,F,2n Cycle,Professional
+23542,Marina Lichtenstein,1987,Married,F,Graduation,Skilled Manual
+20870,Pauline Chand,1946,Single,F,PhD,Manual
+25598,Susan Vittorini,1982,Married,M,Graduation,Clerical
+21564,Corey Roper,1979,Married,M,Graduation,Professional
+12496,Jessica Myrick,1957,Single,F,Graduation,Skilled Manual
+24107,Matt Collister,1954,Single,F,Graduation,Clerical
+14177,Alan Schoenberger,1965,Together,M,Graduation,Professional
+24381,Elizabeth Moffitt,1984,Together,M,Graduation,Professional
+25597,David Philippe,1981,Married,M,PhD,Clerical
+13507,Patrick Jones,1967,Together,M,Master,Manual
+27974,Larry Tron,1971,Divorced,F,Graduation,Management
+19364,Alex Russell,1985,Married,F,PhD,Skilled Manual
+22155,Bill Donatelli,1974,Together,F,PhD,Clerical
+19280,Ann Steele,1950,Together,F,PhD,Manual
+22173,Andy Reiter,1983,Married,F,Graduation,Skilled Manual
+12697,Dave Hallsten,1976,Married,M,Basic,Professional
+11434,Tamara Dahlen,1959,Divorced,F,Graduation,Professional
+25323,Darren Budd,1952,Divorced,M,Master,Clerical
+23542,Marina Lichtenstein,1987,Married,F,Graduation,Skilled Manual
+20870,Pauline Chand,1946,Single,F,PhD,Manual
+23316,Valerie Dominguez,1980,Married,F,Graduation,Clerical
+12610,Dorris Love,1946,Together,M,Graduation,Clerical
+27183,Matt Collins,1949,Married,M,Master,Clerical
+25940,Robert Waldorf,1985,Single,F,2n Cycle,Clerical
+25598,Susan Vittorini,1982,Married,M,Graduation,Clerical
+21564,Corey Roper,1979,Married,M,Graduation,Professional
+19193,Julia West,1949,Married,M,PhD,Clerical
+26412,Muhammed Yedwab,1954,Married,M,PhD,Management
+27184,Craig Leslie,1951,Together,M,Graduation,Clerical
+12590,Tracy Collins,1969,Single,F,Graduation,Clerical
+17841,Victor Price,1976,Married,M,Graduation,Clerical
+18283,Maribeth Schnelling,1986,Single,F,Graduation,Professional
+18299,Julia Barnett,1989,Married,F,Graduation,Skilled Manual
+16466,Chloris Kastensmidt,1965,Married,M,PhD,Manual
+19273,Jasper Cacioppo,1989,Divorced,M,Master,Manual
+13122,Denise Leinenbach,1968,Divorced,M,PhD,Professional
+21184,Tracy Hopkins,1979,Together,F,Graduation,Professional
+26150,Bruce Degenhardt,1979,Together,F,Master,Professional
+24151,Meg O'Connel,1993,Single,M,Graduation,Clerical
+23962,Dan Reichenbach,1946,Married,F,PhD,Manual
+17793,Berenike Kampe,1968,Married,F,Master,Clerical
+18153,Maribeth Dona,1973,Married,F,PhD,Management
+14547,Henry MacAllister,1983,Married,F,Graduation,Manual
+26150,Bruce Degenhardt,1979,Together,F,Master,Professional
+13961,Pete Takahito,1943,Married,M,PhD,Management
+11897,Harold Pawlan,1975,Together,F,2n Cycle,Professional
+11139,Sam Zeldin,1994,Together,F,Graduation,Clerical
+11576,Theone Pippenger,1981,Single,F,Graduation,Skilled Manual
+13586,Mitch Gastineau,1954,Widow,F,Graduation,Professional
+17978,Emily Grady,1973,Married,F,2n Cycle,Clerical
+13961,Pete Takahito,1943,Married,M,PhD,Management
+19741,Jake Moody,1965,Married,M,Master,Management
+17450,Juliaed Barnedett,1952,Married,F,Graduation,Professional
+17337,Mongo DBB,1954,Together,F,Graduation,Skilled Manual
+18594,Thomas Edred,1960,Widow,M,2n Cycle,Skilled Manual
+15982,Adam Sburgwd,1965,Divorced,M,Graduation,Professional
+28625,Shilling Zeldin,1979,Divorced,F,Master,Clerical
+11269,Lunafe ,1978,Divorced,M,Graduation,Management
+25148,Theo Penger,1950,Married,M,Graduation,Professional
+13920,Rick Edisono,1974,Married,F,PhD,Skilled Manual
+23704,Kined Edios,1978,Married,F,PhD,Professional
+28972,Alete Disne,1969,Married,M,Graduation,Management
+22730,Becker Edw ,1976,Single,M,2n Cycle,Management
+29134, Mac Allister,1956,Widow,M,PhD,Skilled Manual
+14332, Biten Arnett,1954,Divorced,F,Graduation,Skilled Manual
+19117,Susi Sistek,1972,Married,F,2n Cycle,Professional
+11897,Harold Pawlan,1975,Together,F,2n Cycle,Professional
+11139,Sam Zeldin,1994,Together,F,Graduation,Clerical
+11576,Theone Pippenger,1981,Single,F,Graduation,Skilled Manual
+13586,Mitch Gastineau,1954,Widow,F,Graduation,Professional
+17978,Emily Grady,1973,Married,F,2n Cycle,Clerical
+13961,Pete Takahito,1943,Married,M,PhD,Management
+11897,Harold Pawlan,1975,Together,F,2n Cycle,Professional
+11139,Sam Zeldin,1994,Together,F,Graduation,Clerical
+11576,Theone Pippenger,1981,Single,F,Graduation,Skilled Manual
+19255,Rick Hansen,1971,Married,F,Master,Manual
+18153,Maribeth Dona,1973,Married,F,PhD,Management
+14547,Henry MacAllister,1983,Married,F,Graduation,Manual
+12568,Mitch Webber,1949,Together,F,Graduation,Clerical
+13122,Denise Leinenbach,1968,Divorced,M,PhD,Professional
+21184,Tracy Hopkins,1979,Together,F,Graduation,Professional
+26150,Bruce Degenhardt,1979,Together,F,Master,Professional
+24151,Meg O'Connel,1993,Single,M,Graduation,Clerical
+13961,Pete Takahito,1943,Married,M,PhD,Management
+11897,Harold Pawlan,1975,Together,F,2n Cycle,Professional
+11139,Sam Zeldin,1994,Together,F,Graduation,Clerical
+11576,Theone Pippenger,1981,Single,F,Graduation,Skilled Manual
+19255,Rick Hansen,1971,Married,F,Master,Manual
+18153,Maribeth Dona,1973,Married,F,PhD,Management
+14547,Henry MacAllister,1983,Married,F,Graduation,Manual
+26150,Bruce Degenhardt,1979,Together,F,Master,Professional
+13586,Mitch Gastineau,1954,Widow,F,Graduation,Professional
+17978,Emily Grady,1973,Married,F,2n Cycle,Clerical
+13961,Pete Takahito,1943,Married,M,PhD,Management
+11897,Harold Pawlan,1975,Together,F,2n Cycle,Professional
+11139,Sam Zeldin,1994,Together,F,Graduation,Clerical
+11576,Theone Pippenger,1981,Single,F,Graduation,Skilled Manual
+19255,Rick Hansen,1971,Married,F,Master,Manual
+18153,Maribeth Dona,1973,Married,F,PhD,Management
+14547,Henry MacAllister,1983,Married,F,Graduation,Manual
+12568,Mitch Webber,1949,Together,F,Graduation,Clerical
+13122,Denise Leinenbach,1968,Divorced,M,PhD,Professional
+21184,Tracy Hopkins,1979,Together,F,Graduation,Professional
+26150,Bruce Degenhardt,1979,Together,F,Master,Professional
+11576,Theone Pippenger,1981,Single,F,Graduation,Skilled Manual
+13586,Mitch Gastineau,1954,Widow,F,Graduation,Professional
+17978,Emily Grady,1973,Married,F,2n Cycle,Clerical
+18153,Maribeth Dona,1973,Married,F,PhD,Management
+14547,Henry MacAllister,1983,Married,F,Graduation,Manual
+26150,Bruce Degenhardt,1979,Together,F,Master,Professional
+13961,Pete Takahito,1943,Married,M,PhD,Management
+29037,Ricked Wilson,1980,Together,F,Graduation,Professional
+26576,Eva J. Dacobs,1988,Married,F,Graduation,Skilled Manual
+12192,Giulie  Dortch,1968,Together,M,PhD,Skilled Manual
+14887,Hald Pawlaned,1988,Married,M,2n Cycle,Clerical
+11734,Steven JD,1959,Divorced,M,2n Cycle,Skilled Manual
+17462, Pawlan Pilot,1971,Together,M,Master,Management
+20659,Brady Thomase,1962,Married,M,Graduation,Professional
+28004,Denisde Mgontonsdsa,1959,Together,F,Master,Management
+19741,Jake Moody,1965,Married,M,Master,Management
+17450,Juliaed Barnedett,1952,Married,F,Graduation,Professional
+17337,Mongo DBB,1954,Together,F,Graduation,Skilled Manual
+18594,Thomas Edred,1960,Widow,M,2n Cycle,Skilled Manual
+15982,Adam Sburgwd,1965,Divorced,M,Graduation,Professional
+28625,Shilling Zeldin,1979,Divorced,F,Master,Clerical
+11269,Lunafe ,1978,Divorced,M,Graduation,Management
+25148,Theo Penger,1950,Married,M,Graduation,Professional
+13920,Rick Edisono,1974,Married,F,PhD,Skilled Manual
+23704,Kined Edios,1978,Married,F,PhD,Professional
+28972,Alete Disne,1969,Married,M,Graduation,Management
+22730,Becker Edw ,1976,Single,M,2n Cycle,Management
+29134, Mac Allister,1956,Widow,M,PhD,Skilled Manual
+14332, Biten Arnett,1954,Divorced,F,Graduation,Skilled Manual
+19117,Susi Sistek,1972,Married,F,2n Cycle,Professional
+22864,Diane Abited,1981,Together,M,Master,Professional
+11292,Sean Dua,1989,Single,M,Graduation,Professional
+13466,Sieal 7enrue,1954,Divorced,F,Graduation,Professional
+23731,Abam Dam,1995,Single,M,Graduation,Professional
+28672,Adam Evil,1978,Together,F,Graduation,Professional
+11809,Willing Coline,1957,Together,M,Graduation,Skilled Manual
+19664,Disnetsl Carbot,1973,Married,M,Graduation,Management
+12121,Santa Convos,1956,Divorced,F,Graduation,Professional
+16179,Tony Molinari,1972,Single,F,PhD,Professional
+15628,Karen Ferguson,1975,Single,Female,Master,Skilled Manual
+20977,Duane Huffman,1970,Single,F,Graduation,Clerical
+18140,Lisa Ryan,1989,Single,M,Graduation,Professional
+12496,Jessica Myrick,1957,Single,F,Graduation,Skilled Manual
+24107,Matt Collister,1954,Single,F,Graduation,Clerical
+14177,Alan Schoenberger,1965,Together,M,Graduation,Professional
+18299,Julia Barnett,1989,Married,F,Graduation,Skilled Manual
+16466,Chloris Kastensmidt,1965,Married,M,PhD,Manual
+19273,Jasper Cacioppo,1989,Divorced,M,Master,Manual
+13586,Mitch Gastineau,1954,Widow,F,Graduation,Professional
+14389,Jonahe,1952,Single,F,Graduation,Management
+18050,Edibehd,1971,Together,M,PhD,Skilled Manual
+19856,Hiasy Hkasg,1971,Together,F,Graduation,Management
+11663,Akieh Aged,1970,Married,F,PhD,Professional
+27740,Huwogf Dhueo,1971,Single,F,Graduation,Skilled Manual
+23455,Dua Liaped,1975,Divorced,F,PhD,Skilled Manual
+15292,Dia Shue,1952,Single,M,2n Cycle,Skilled Manual
+21587,Kelly Eolye,1962,Together,M,PhD,Skilled Manual
+23513,Cinder Swete,1983,Divorced,F,Graduation,Professional
+24322,Mithe Iwoe,1953,Together,M,Graduation,Skilled Manual
+26298,Clowysh Chres,1986,Single,M,Basic,Skilled Manual
+25419,Miag Uoeh,1987,Married,F,PhD,Skilled Manual
+13343,Tombostome,1982,Married,M,2n Cycle,Management
+11303,Sleeyroda,1979,Divorced,M,Graduation,Professional
+21693,Chris Chisis,1977,Together,M,Graduation,Skilled Manual
+28056,Crisk Burk,1975,Divorced,F,2n Cycle,Skilled Manual
+11788,Robb Boob,1979,Together,M,PhD,Professional
+22296,Boo Bord,1976,Together,F,PhD,Professional
+15319,Geor Graphhh,1973,Divorced,F,Master,Management
+17654,Suck Arid,1971,Single,F,PhD,Clerical
+14662,Marid De Binson,1976,Together,M,Master,Professional
+17541,Gianr De De,1976,Married,F,PhD,Skilled Manual
+13886,Jum Edid,1965,Married,M,Graduation,Professional
+13073,Syhed Edoa,1952,Single,M,Graduation,Professional
+21940,Edit Edinson,1973,Married,F,Graduation,Professional
+20196,Pauo Duia,1957,Divorced,F,PhD,Skilled Manual
+23491,Dua Sean,1967,Divorced,M,Graduation,Professional
+16651,Sean Duaei,1962,Single,M,PhD,Management
+16813,Sean Paulio,1969,Together,F,Master,Professional
+16007,Pieo Duese,1975,Married,M,PhD,Management
+27434,Setet Tran,1980,Married,M,Graduation,Professional
+21564,Corey Roper,1979,Married,M,Graduation,Professional
+17841,Victor Price,1976,Married,M,Graduation,Clerical
+18283,Maribeth Schnelling,1986,Single,F,Graduation,Professional
+18299,Julia Barnett,1989,Married,F,Graduation,Skilled Manual
+16466,Chloris Kastensmidt,1965,Married,M,PhD,Manual
+21184,Tracy Hopkins,1979,Together,F,Graduation,Professional
+26150,Bruce Degenhardt,1979,Together,F,Master,Professional
+24151,Meg O'Connel,1993,Single,M,Graduation,Clerical
+23962,Dan Reichenbach,1946,Married,F,PhD,Manual
+17793,Berenike Kampe,1968,Married,F,Master,Clerical
+13122,Denise Leinenbach,1968,Divorced,M,PhD,Professional
+21184,Tracy Hopkins,1979,Together,F,Graduation,Professional
+23316,Valerie Dominguez,1980,Married,F,Graduation,Clerical
+12610,Dorris Love,1946,Together,M,Graduation,Clerical
+27183,Matt Collins,1949,Married,M,Master,Clerical
+25940,Robert Waldorf,1985,Single,F,2n Cycle,Clerical
+11292,Sean Dua,1989,Single,M,Graduation,Professional
+13466,Sieal 7enrue,1954,Divorced,F,Graduation,Professional
+23731,Abam Dam,1995,Single,M,Graduation,Professional
+28672,Adam Evil,1978,Together,F,Graduation,Professional
+11809,Willing Coline,1957,Together,M,Graduation,Skilled Manual
+23455,Dua Liaped,1975,Divorced,F,PhD,Skilled Manual
+15292,Dia Shue,1952,Single,M,2n Cycle,Skilled Manual
+21587,Kelly Eolye,1962,Together,M,PhD,Skilled Manual
+23513,Cinder Swete,1983,Divorced,F,Graduation,Professional
+24322,Mithe Iwoe,1953,Together,M,Graduation,Skilled Manual
+26298,Clowysh Chres,1986,Single,M,Basic,Skilled Manual
+25419,Miag Uoeh,1987,Married,F,PhD,Skilled Manual
+13343,Tombostome,1982,Married,M,2n Cycle,Management
+11303,Sleeyroda,1979,Divorced,M,Graduation,Professional
+21693,Chris Chisis,1977,Together,M,Graduation,Skilled Manual
+28056,Crisk Burk,1975,Divorced,F,2n Cycle,Skilled Manual
+11788,Robb Boob,1979,Together,M,PhD,Professional
+22296,Boo Bord,1976,Together,F,PhD,Professional
+15319,Geor Graphhh,1973,Divorced,F,Master,Management
+17654,Suck Arid,1971,Single,F,PhD,Clerical
+14662,Marid De Binson,1976,Together,M,Master,Professional
+17541,Gianr De De,1976,Married,F,PhD,Skilled Manual
+13886,Jum Edid,1965,Married,M,Graduation,Professional
+13073,Syhed Edoa,1952,Single,M,Graduation,Professional
+21940,Edit Edinson,1973,Married,F,Graduation,Professional
+20196,Pauo Duia,1957,Divorced,F,PhD,Skilled Manual
+23491,Dua Sean,1967,Divorced,M,Graduation,Professional
+23316,Valerie Dominguez,1980,Married,F,Graduation,Clerical
+12610,Dorris Love,1946,Together,M,Graduation,Clerical
+27183,Matt Collins,1949,Married,M,Master,Clerical
+25940,Robert Waldorf,1985,Single,F,2n Cycle,Clerical
+11292,Sean Dua,1989,Single,M,Graduation,Professional
+13466,Sieal 7enrue,1954,Divorced,F,Graduation,Professional
+23731,Abam Dam,1995,Single,M,Graduation,Professional
+28672,Adam Evil,1978,Together,F,Graduation,Professional
+11809,Willing Coline,1957,Together,M,Graduation,Skilled Manual
+23455,Dua Liaped,1975,Divorced,F,PhD,Skilled Manual
+15292,Dia Shue,1952,Single,M,2n Cycle,Skilled Manual
+21587,Kelly Eolye,1962,Together,M,PhD,Skilled Manual
+23513,Cinder Swete,1983,Divorced,F,Graduation,Professional
+24322,Mithe Iwoe,1953,Together,M,Graduation,Skilled Manual
+26298,Clowysh Chres,1986,Single,M,Basic,Skilled Manual
+25419,Miag Uoeh,1987,Married,F,PhD,Skilled Manual
+13343,Tombostome,1982,Married,M,2n Cycle,Management
+11303,Sleeyroda,1979,Divorced,M,Graduation,Professional
+21693,Chris Chisis,1977,Together,M,Graduation,Skilled Manual
+15292,Dia Shue,1952,Single,M,2n Cycle,Skilled Manual
+21587,Kelly Eolye,1962,Together,M,PhD,Skilled Manual
+23513,Cinder Swete,1983,Divorced,F,Graduation,Professional
+24322,Mithe Iwoe,1953,Together,M,Graduation,Skilled Manual
+26298,Clowysh Chres,1986,Single,M,Basic,Skilled Manual
+25419,Miag Uoeh,1987,Married,F,PhD,Skilled Manual
+13343,Tombostome,1982,Married,M,2n Cycle,Management
+11303,Sleeyroda,1979,Divorced,M,Graduation,Professional
+21693,Chris Chisis,1977,Together,M,Graduation,Skilled Manual
+28056,Crisk Burk,1975,Divorced,F,2n Cycle,Skilled Manual
+11788,Robb Boob,1979,Together,M,PhD,Professional
+22296,Boo Bord,1976,Together,F,PhD,Professional
+15319,Geor Graphhh,1973,Divorced,F,Master,Management
+17654,Suck Arid,1971,Single,F,PhD,Clerical
+14662,Marid De Binson,1976,Together,M,Master,Professional
+17541,Gianr De De,1976,Married,F,PhD,Skilled Manual
+13886,Jum Edid,1965,Married,M,Graduation,Professional
+13073,Syhed Edoa,1952,Single,M,Graduation,Professional
+21940,Edit Edinson,1973,Married,F,Graduation,Professional
+20196,Pauo Duia,1957,Divorced,F,PhD,Skilled Manual
+23491,Dua Sean,1967,Divorced,M,Graduation,Professional
+16651,Sean Duaei,1962,Single,M,PhD,Management
+16813,Sean Paulio,1969,Together,F,Master,Professional
+16007,Pieo Duese,1975,Married,M,PhD,Management
+15292,Dia Shue,1952,Single,M,2n Cycle,Skilled Manual
+21587,Kelly Eolye,1962,Together,M,PhD,Skilled Manual
+23513,Cinder Swete,1983,Divorced,F,Graduation,Professional
+24322,Mithe Iwoe,1953,Together,M,Graduation,Skilled Manual
+26298,Clowysh Chres,1986,Single,M,Basic,Skilled Manual
+25419,Miag Uoeh,1987,Married,F,PhD,Skilled Manual
+13343,Tombostome,1982,Married,M,2n Cycle,Management
+11303,Sleeyroda,1979,Divorced,M,Graduation,Professional
+21693,Chris Chisis,1977,Together,M,Graduation,Skilled Manual
+15292,Dia Shue,1952,Single,M,2n Cycle,Skilled Manual
+21587,Kelly Eolye,1962,Together,M,PhD,Skilled Manual
+23513,Cinder Swete,1983,Divorced,F,Graduation,Professional
+24322,Mithe Iwoe,1953,Together,M,Graduation,Skilled Manual
+26298,Clowysh Chres,1986,Single,M,Basic,Skilled Manual
+25419,Miag Uoeh,1987,Married,F,PhD,Skilled Manual
+13586,Mitch Gastineau,1954,Widow,F,Graduation,Professional
+14389,Jonahe,1952,Single,F,Graduation,Management
+18050,Edibehd,1971,Together,M,PhD,Skilled Manual
+19856,Hiasy Hkasg,1971,Together,F,Graduation,Management
+11663,Akieh Aged,1970,Married,F,PhD,Professional
+27740,Huwogf Dhueo,1971,Single,F,Graduation,Skilled Manual
+23455,Dua Liaped,1975,Divorced,F,PhD,Skilled Manual
+15292,Dia Shue,1952,Single,M,2n Cycle,Skilled Manual
+21587,Kelly Eolye,1962,Together,M,PhD,Skilled Manual
+23513,Cinder Swete,1983,Divorced,F,Graduation,Professional
+15265,Mary O'Rourke,1984,Married,M,Master,Management
+28918,Katrina Bavinger,1961,Married,F,Basic,Management
+15799,Jeremy Lonsdale,1983,Married,M,Graduation,Professional
+11047,Peter McVee,1970,Single,F,PhD,Skilled Manual
+18151,Dana Kaydos,1966,Married,M,Graduation,Professional
+20606,Dan Campbell,1976,Married,M,Graduation,Professional
+19482,Jill Matthias,1964,Married,F,PhD,Clerical
+16489,Cathy Hwang,1978,Together,F,Basic,Skilled Manual
+26944,Stephanie Phelps,1989,Together,F,PhD,Manual
+15682,Darrin Van Huff,1990,Divorced,F,2n Cycle,Management
+26032,James Lanier,1988,Married,M,Graduation,Professional
+17843,Keith Dawkins,1973,Married,M,Graduation,Manual
+25559,Victoria Pisteka,1977,Married,F,Graduation,Clerical
+16209,Steven Ward,1980,Married,Male,Master,Skilled Manual
+11147,Evan Minnotte,1954,Married,F,Graduation,Management
+15214,Denise Monton,1954,Married,M,Graduation,Management
+26298,Clowysh Chres,1986,Single,M,Basic,Skilled Manual
+25419,Miag Uoeh,1987,Married,F,PhD,Skilled Manual
+13586,Mitch Gastineau,1954,Widow,F,Graduation,Professional
+14389,Jonahe,1952,Single,F,Graduation,Management
+18050,Edibehd,1971,Together,M,PhD,Skilled Manual
+19856,Hiasy Hkasg,1971,Together,F,Graduation,Management
+11663,Akieh Aged,1970,Married,F,PhD,Professional
+27740,Huwogf Dhueo,1971,Single,F,Graduation,Skilled Manual
+23455,Dua Liaped,1975,Divorced,F,PhD,Skilled Manual
+15292,Dia Shue,1952,Single,M,2n Cycle,Skilled Manual
+21587,Kelly Eolye,1962,Together,M,PhD,Skilled Manual
+23513,Cinder Swete,1983,Divorced,F,Graduation,Professional
+15265,Mary O'Rourke,1984,Married,M,Master,Management
+28918,Katrina Bavinger,1961,Married,F,Basic,Management
+16209,Steven Ward,1980,Married,Male,Master,Skilled Manual
+11147,Evan Minnotte,1954,Married,F,Graduation,Management
+15214,Denise Monton,1954,Married,M,Graduation,Management
+26298,Clowysh Chres,1986,Single,M,Basic,Skilled Manual
+25419,Miag Uoeh,1987,Married,F,PhD,Skilled Manual
+13586,Mitch Gastineau,1954,Widow,F,Graduation,Professional
+14389,Jonahe,1952,Single,F,Graduation,Management
+18050,Edibehd,1971,Together,M,PhD,Skilled Manual
+19856,Hiasy Hkasg,1971,Together,F,Graduation,Management
+11663,Akieh Aged,1970,Married,F,PhD,Professional
+19364,Alex Russell,1985,Married,F,PhD,Skilled Manual
+22155,Bill Donatelli,1974,Together,F,PhD,Clerical
+19280,Ann Steele,1950,Together,F,PhD,Manual
+22173,Andy Reiter,1983,Married,F,Graduation,Skilled Manual
+12697,Dave Hallsten,1976,Married,M,Basic,Professional
+11434,Tamara Dahlen,1959,Divorced,F,Graduation,Professional
+25323,Darren Budd,1952,Divorced,M,Master,Clerical
+23542,Marina Lichtenstein,1987,Married,F,Graduation,Skilled Manual
+20870,Pauline Chand,1946,Single,F,PhD,Manual
+23316,Valerie Dominguez,1980,Married,F,Graduation,Clerical
+22730,Becker Edw ,1976,Single,M,2n Cycle,Management
+29134, Mac Allister,1956,Widow,M,PhD,Skilled Manual
+14332, Biten Arnett,1954,Divorced,F,Graduation,Skilled Manual
+19117,Susi Sistek,1972,Married,F,2n Cycle,Professional
+23542,Marina Lichtenstein,1987,Married,F,Graduation,Skilled Manual
+20870,Pauline Chand,1946,Single,F,PhD,Manual
+25598,Susan Vittorini,1982,Married,M,Graduation,Clerical
+21564,Corey Roper,1979,Married,M,Graduation,Professional
+12496,Jessica Myrick,1957,Single,F,Graduation,Skilled Manual
+24107,Matt Collister,1954,Single,F,Graduation,Clerical
+14177,Alan Schoenberger,1965,Together,M,Graduation,Professional
+18299,Julia Barnett,1989,Married,F,Graduation,Skilled Manual
+16466,Chloris Kastensmidt,1965,Married,M,PhD,Manual
+19273,Jasper Cacioppo,1989,Divorced,M,Master,Manual
+11663,Akieh Aged,1970,Married,F,PhD,Professional
+19364,Alex Russell,1985,Married,F,PhD,Skilled Manual
+22155,Bill Donatelli,1974,Together,F,PhD,Clerical
+19280,Ann Steele,1950,Together,F,PhD,Manual
+22173,Andy Reiter,1983,Married,F,Graduation,Skilled Manual
+12697,Dave Hallsten,1976,Married,M,Basic,Professional
+11434,Tamara Dahlen,1959,Divorced,F,Graduation,Professional
+25323,Darren Budd,1952,Divorced,M,Master,Clerical
+23542,Marina Lichtenstein,1987,Married,F,Graduation,Skilled Manual
+20870,Pauline Chand,1946,Single,F,PhD,Manual
+23316,Valerie Dominguez,1980,Married,F,Graduation,Clerical
+14177,Alan Schoenberger,1965,Together,M,Graduation,Professional
+18299,Julia Barnett,1989,Married,F,Graduation,Skilled Manual
+16466,Chloris Kastensmidt,1965,Married,M,PhD,Manual
+19273,Jasper Cacioppo,1989,Divorced,M,Master,Manual
+11663,Akieh Aged,1970,Married,F,PhD,Professional
+19364,Alex Russell,1985,Married,F,PhD,Skilled Manual
+22155,Bill Donatelli,1974,Together,F,PhD,Clerical
+19280,Ann Steele,1950,Together,F,PhD,Manual
+24842,Delfina Latchford,1965,Single,Male,PhD,Professional
+15657,Carl Weiss,1984,Single,F,Master,Clerical
+11415,Quincy Jones,1988,Together,F,Graduation,Professional
+28729,Guy Armstrong,1963,Divorced,F,Master,Manual
+22633,Christina DeMoss,1966,Married,F,Graduation,Clerical
+25649,Joy Bell,1954,Divorced,F,Graduation,Clerical
+14669,Trudy Schmidt,1956,Together,M,Graduation,Management
+19299,Raymond Book,1954,Together,Female,Graduation,Skilled Manual
+20946,Dennis Bolton,1968,Married,M,PhD,Clerical
+11451,John Huston,1974,Together,M,Master,Professional
+25553,Richard Bierner,1985,Married,F,Graduation,Clerical
+27951,Rose O'Brian,1977,Married,M,Graduation,Professional
+25026,Dorothy Badders,1978,Single,F,2n Cycle,Clerical
+13673,Karen Bern,1948,Married,Female,Master,Manual
+16043,Maxwell Schwartz,1954,Widow,M,Master,Manual
+22399,Thomas Brumley,1980,Together,F,Graduation,Manual
+27696,Nora Price,1988,Together,Male,2n Cycle,Professional
+25313,Heather Kirkland,1969,Married,Male,Graduation,Manual
+13813,Craig Carroll,1970,Together,Male,PhD,Clerical
+18711,Rob Beeghly,1980,Married,F,PhD,Professional
+19650,Dennis Kane,1962,Divorced,M,Graduation,Clerical
+11451,John Huston,1974,Together,M,Master,Professional
+25553,Richard Bierner,1985,Married,F,Graduation,Clerical
+11415,Quincy Jones,1988,Together,F,Graduation,Professional
